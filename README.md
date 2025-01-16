@@ -7,4 +7,4 @@ git branches
 - `git log --oneline`: See where you are
 
 - `git push origin b1`: Push origin to branch `b1`
-    - Similar command for pulling
+- `git pull origin b1`: Pull origin from branch `b1`
